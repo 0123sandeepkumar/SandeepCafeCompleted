@@ -16,4 +16,4 @@ const store = configureStore({
 
 export default store;
 
-export const server = "https://mbaburgerwala.herokuapp.com/api/v1";
+export const server = "https://sandycafe.onrender.com/api/v1";
